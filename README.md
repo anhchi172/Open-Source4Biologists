@@ -1,4 +1,4 @@
-# Open-Source4Biologists
+# Open-Source 4 Biologists
 
 Are you a biologist interested in contributing to open-source software development? Join us this Friday, July 28th at 3pm for a chill Q&A and get your questions answered by computational biologists and software developers!  
 
